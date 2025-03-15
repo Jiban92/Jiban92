@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [JIBAN DHAL]  
 
-Welcome to my GitHub profile! I'm a [ Software Developer] passionate about [your interests, open-source projects, AI, web development].  
+Welcome to my GitHub profile! I'm a [ Software Developer] passionate about [ open-source projects, AI, web development].  
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a [ Software Developer] passionate about [your
 
 ## 🛠️ Tech Stack  
 
-- **Languages**: [full-stack Java development]  
+- **Languages**: [full-stack Java development,HTML,CSS,JS]  
 - **Frameworks**: [React ,etc]  
 - **Tools**: [VS Code, Git, Docker, etc.]  
 
@@ -34,14 +34,6 @@ Welcome to my GitHub profile! I'm a [ Software Developer] passionate about [your
 - 🤖 **[Project Name]**: [Short description, e.g., experimenting with AI models].  
 
 ---
-
-## 📝 Latest Blog Posts or Articles  
-[Optional] Showcase any articles or posts you’ve written related to tech or projects:  
-- [Title](link)  
-- [Title](link)  
-
----
-
 ## 📬 Get in Touch  
 
 - 💬 LinkedIn: [https://www.linkedin.com/in/jiban-dhal-3492s/]  
