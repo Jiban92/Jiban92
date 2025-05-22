@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a [ Software Developer] passionate about [ ope
 ## 📬 Get in Touch  
 
 - 💬 LinkedIn: [https://www.linkedin.com/in/jiban-dhal-3492s/]  
-- 📧 Email: [Jibandhal555@gmail.com]  
+- 📧 Email: [Jibandhal221@gmail.com]  
 
 ---
 
